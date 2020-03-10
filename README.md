@@ -1,3 +1,5 @@
+I must say, it was very satisfying to complete this exercise and run the game as intended. 
+
 # E08b-Debugging
 
 As usual, Fork and Clone this repository.
